@@ -55,15 +55,15 @@ p {
     width: 400px;
     margin: 10px;
     border-radius: 5%;
-    animation: fadein 2s;
+    animation: fadein 10s;
 }
 
-.QR-code-text-box {
-    
+.QR-code-text-box:hover {
     justify-content: center;
     height: 100px;
     width: 400px;
     margin: 5px;
+    animation: fadein 4s;
 }
 
 .QR-code-text-1 {
@@ -71,16 +71,15 @@ p {
     display: inline-block;
     height: 20px;
     width: 400px;
-    animation: fadein 4s;
+  
 }
 
 .QR-code-text-2 {
     justify-content: center;
-    align-items:center;
     display: inline-block;
     height: 20px;
     width: 350px;
-    animation: fadein 5s;
+   
 }
 
 
